@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, ShanghaiTech University, 2020
+* M.S. in Computer Science and Technology, ShanghaiTech University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021 - Present: Research Assistant
+  * Shanghai Qi Zhi Institute
+  * Duties included:
+    * Self-supervised robot learning
+    * Real quadruped robot with Reinforcement Learning
+  * Supervisor: [Professor Hang Zhao](https://hangzhaomit.github.io)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Research Assistant
+  * ShanghaiTech University
+  * Duties included: Hardware and Software system design and implementation on Cotton harvesting robot
+  * Supervisor: [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Pytorch
+  * Reinforcement Learning
+* Mechanical design
+  * Solidworks
+  * Shapr3D
+* Robotics hardware
+  * Drilling Machines
+  * STM32 Cortex-M development board
+
 
 Publications
 ======
@@ -42,11 +48,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
