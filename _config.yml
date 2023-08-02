@@ -132,6 +132,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
@@ -146,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - vender
 keep_files:
   - .git
   - .svn
@@ -176,6 +178,9 @@ kramdown:
 # Collections
 collections:
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -215,6 +220,15 @@ defaults:
       type: teaching
     values:
       layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: talk
       author_profile: true
       share: true
       comments: true

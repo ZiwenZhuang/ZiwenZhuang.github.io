@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
 * B.S. in Computer Science and Technology, ShanghaiTech University, 2020
@@ -28,6 +34,12 @@ Work experience
   * Duties included: Hardware and Software system design and implementation on Cotton harvesting robot
   * Supervisor: [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
 * Programming
@@ -40,26 +52,14 @@ Skills
 * Robotics hardware
   * Drilling Machines
   * STM32 Cortex-M development board
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* CoRL 2022, 2023 Reviewer
+* AAAI 2022 Reviewer
