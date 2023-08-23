@@ -18,6 +18,7 @@ Publications
 Education
 ======
 * B.S. in Computer Science and Technology, ShanghaiTech University, 2020
+* Summer session, University of California, Berkeley, 2017
 * M.S. in Computer Science and Technology, ShanghaiTech University, 2024 (expected)
 
 Work experience
@@ -33,6 +34,11 @@ Work experience
   * ShanghaiTech University
   * Duties included: Hardware and Software system design and implementation on Cotton harvesting robot
   * Supervisor: [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)
+
+* Summer 2019: Research Intern
+  * Carnegie Mellon University
+  * Duties included: Self-supervised Reinforcement Learning and tactile sensing
+  * Supervisor: [Professor David Held](https://davheld.github.io)
   
 Teaching
 ======
