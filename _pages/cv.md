@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Get file from [here](/files/ZiwenZhuang_CV.pdf)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
