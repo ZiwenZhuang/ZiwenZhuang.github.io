@@ -18,9 +18,9 @@ In order to reach AGI, my research interest mainly focus on the two aspects of r
 
 I have participated in several competitions: CMCM, MCM, RoboMaster. I was the project manager in the ShanghaiTech RoboMaster team.
 
-## Research Highlights
+## Publications
 
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
