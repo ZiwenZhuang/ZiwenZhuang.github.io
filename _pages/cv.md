@@ -21,7 +21,8 @@ Education
 ======
 * B.S. in Computer Science and Technology, ShanghaiTech University, 2020
 * Summer session, University of California, Berkeley, 2017
-* M.S. in Computer Science and Technology, ShanghaiTech University, 2024 (expected)
+* M.S. in Computer Science and Technology, ShanghaiTech University, 2024
+* Ph.D in Computer Science and Technology, Tsinghua University
 
 Work experience
 ======
@@ -69,5 +70,5 @@ Talks
   
 Service
 ======
-* CoRL 2022, 2023 Reviewer
+* CoRL 2022, 2023, 2024 Reviewer
 * AAAI 2022 Reviewer

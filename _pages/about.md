@@ -20,6 +20,8 @@ I have participated in several competitions: CMCM, MCM, RoboMaster. I was the pr
 
 ## News
 
+- **2024-11**: Invited talk at [Workshop on Whole-body Control and Bimanual Manipulation at CoRL 2024](https://wcbm-workshop.github.io)
+
 - **2024-04**: Invited talk at [China Embodied AI Conference](http://ceai.caai.cn/)
 
 - **2023-11**: Invited talk at [TechBeat](https://techbeat.net/talk-info?id=825)
