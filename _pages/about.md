@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at IIIS, Tsinghua Univesity, working on Athletic Intelligence, Embodied AI, and Robotics. I am currently working as a research assistant at Shanghai Qi Zhi Institute, advised by [Professor Hang Zhao](https://hangzhaomit.github.io). Before that, I was a member of the [MARS Lab](https://robotics.shanghaitech.edu.cn) at ShanghaiTech University, advised by [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). I tightly collaborate with students at Stanford University and Carnegie Mellon University.
+I am a first-year PhD student at IIIS, Tsinghua Univesity, working on Athletic Intelligence, Embodied AI, and Robotics. I am currently working as a PhD Student at Tsinghua University, advised by [Professor Hang Zhao](https://hangzhaomit.github.io). Before the enrollment at Tsinghua University, I was a research assistant at Shanghai Qi Zhi Institute. Before that, I was a member of the [MARS Lab](https://robotics.shanghaitech.edu.cn) at ShanghaiTech University, advised by [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). I tightly collaborate with students at Stanford University and Carnegie Mellon University.
 
 <!-- In order to reach AGI, my research interest mainly focus on the two aspects of robot learning:
 
