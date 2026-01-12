@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at IIIS, Tsinghua Univesity, working on Athletic Intelligence, Embodied AI, and Robotics. I am currently working as a PhD Student at Tsinghua University, advised by [Professor Hang Zhao](https://hangzhaomit.github.io). Before the enrollment at Tsinghua University, I was a research assistant at Shanghai Qi Zhi Institute. Before that, I was a member of the [MARS Lab](https://robotics.shanghaitech.edu.cn) at ShanghaiTech University, advised by [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). I tightly collaborate with students at Stanford University and Carnegie Mellon University.
+I am a 2nd-year PhD student at IIIS, Tsinghua Univesity, working on Athletic Intelligence, Embodied AI, and Robotics. I am currently working as a PhD Student at Tsinghua University, advised by [Professor Hang Zhao](https://hangzhaomit.github.io). Before the enrollment at Tsinghua University, I was a research assistant at Shanghai Qi Zhi Institute. Before that, I was a member of the [MARS Lab](https://robotics.shanghaitech.edu.cn) at ShanghaiTech University, advised by [Professor Soeren Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren). I tightly collaborate with students at Stanford University and Carnegie Mellon University.
 
 I am interested in the intersection of Robotics, Machine Learning, and Control. My research focuses on developing general robotics control algorithm that can perform highly dynamical tasks, such as parkour, acrobatics, and other athletic tasks. The ultimate goal is to develop a general controller to bridge the gap between large model and the hardware robot.
 
@@ -21,6 +21,8 @@ I am interested in the intersection of Robotics, Machine Learning, and Control. 
 I have participated in several competitions: CMCM, MCM, RoboMaster. I was the project manager in the ShanghaiTech RoboMaster team.
 
 ## News
+
+- **2026-01**: Project Instinct is released. [Project Instinct](https://project-instinct.github.io) is a full-stack framework for Instinct-Level intelligence on humanoid robots.
 
 - **2024-11**: Invited talk at [Workshop on Whole-body Control and Bimanual Manipulation at CoRL 2024](https://wcbm-workshop.github.io)
 
